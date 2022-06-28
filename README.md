@@ -1,2 +1,3 @@
-<html>
-   <h1>meu primeiro arquivo em HTML <hi</html>
+</html>
+   <h1>meu primeiro arquivo em HTML <hi>
+                                   </html>
